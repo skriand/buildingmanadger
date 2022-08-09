@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Building manadger</string>
+
+    <string name="no_features">"No display features"</string>
+    <string name="hinge_is_horizontal">"Hinge is horizontal"</string>
+    <string name="hinge_is_vertical">"Hinge is vertical"</string>
+</resources>
